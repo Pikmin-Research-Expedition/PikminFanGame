@@ -1,3 +1,4 @@
-Code: Check, Ezlambry
+Code: Check
 Sound: Mango_Ps, soafen
 Design: D o g g o, Pyzent, Retrix, TDK
+Models/Texures: Pyzent
