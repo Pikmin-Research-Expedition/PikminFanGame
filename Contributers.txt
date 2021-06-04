@@ -1,4 +1,5 @@
-Code: Check
-Sound: Mango_Ps, soafen
-Design: D o g g o, Pyzent, Retrix, TDK
-Models/Texures: Pyzent
+Code: Check, Milk, JG
+Models/Texures: Pyzent, TDK
+Sound: Mango_Ps, soafen, MaccPro, PossessedHood416
+Design: D o g g o, Pyzent, Retrix, TDK, soafen, Mango_Ps
+Multiplayer: Mat MS
