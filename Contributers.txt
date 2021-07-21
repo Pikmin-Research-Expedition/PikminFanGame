@@ -1,5 +1,5 @@
 Code: Milk, JG
-Models/Texures: Pyzent, TDK
+Models/Textures: Pyzent, TDK
 Sound: Mango_Ps, MaccPro, PossessedHood416
 Design: D o g g o, Pyzent, Retrix, TDK, soafen, Mango_Ps
 Multiplayer: Mat MS
