@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boss name reveal.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UI0000" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0001" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0002" x="1248" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0003" x="2496" y="0" width="1249" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0004" x="0" y="139" width="1251" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0005" x="1251" y="139" width="1253" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0006" x="2504" y="139" width="1256" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0007" x="0" y="278" width="1259" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0008" x="1259" y="278" width="1263" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0009" x="2522" y="278" width="1267" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0010" x="0" y="417" width="1271" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0011" x="1271" y="417" width="1276" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0012" x="2547" y="417" width="1281" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0013" x="0" y="556" width="1287" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0014" x="1287" y="556" width="1293" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0015" x="2580" y="556" width="1300" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0016" x="0" y="695" width="1306" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0017" x="1306" y="695" width="1313" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0018" x="2619" y="695" width="1321" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0019" x="0" y="834" width="1328" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0020" x="1328" y="834" width="1336" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0021" x="2664" y="834" width="1344" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0022" x="0" y="973" width="1352" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0023" x="1352" y="973" width="1361" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0024" x="2713" y="973" width="1369" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0025" x="0" y="1112" width="1378" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0026" x="1378" y="1112" width="1386" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0027" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0028" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0029" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0030" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0031" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0032" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0033" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0034" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0035" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0036" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0037" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+	<SubTexture name="UI0038" x="0" y="0" width="1248" height="139" frameX="0" frameY="0" frameWidth="1395" frameHeight="139"/>
+</TextureAtlas>
